@@ -2,7 +2,7 @@
 A repository to practice Automation Testing using **Selenium/Java/TestNG/Cucumber Framework**.
 
 ## 📌 Details
-This is a **BDD test automation project** for Java using the **Cucumber-JVM framework** & **Cucumber-TestNG assertion tool**. It contains behavior-driven scenarios that perform frontend test automation on an **E-commerce App** ([nopCommerce Demo](https://demo.nopcommerce.com/)).
+This is a **BDD test automation project** for Java using the **Cucumber-JVM framework** & **Cucumber-TestNG assertion tool**. 
 
 ### 🚀 Features Covered:
 - ✅ **Registration Feature**
