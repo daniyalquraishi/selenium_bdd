@@ -12,7 +12,7 @@ public class SD01_RegistrationTestSteps extends TestBase {
     HomePage homePage = new HomePage(driver);
     RegistrationPage registrationPage = new RegistrationPage(driver);
 
-    @Given("user is in home page")
+    @Given("^user is in home page$")
     public void user_is_in_home_page() {
         homePage.navigateHomePage();
         Assert.assertEquals(driver.getTitle(),"nopCommerce demo store");

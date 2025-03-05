@@ -90,8 +90,8 @@ public class HomePage extends PageBase{
     public String isWishListSuccessMessageDisplayed(){
         return getElementText(wishListSuccessMessage);
     }
-    public void waitWishListSuccessMessageBecomesInvisible(){
-        waitElementToBeInvisible(wishListSuccessMessage);
+    public void waitWishListSuccessMessageBecomesInvisible() throws InterruptedException {
+//        waitElementToBeInvisible(wishListSuccessMessage);
     }
     public void clickOnWishListTab(){
         clickOnElement(wishListTab);
