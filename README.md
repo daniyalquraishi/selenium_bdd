@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ Test Automation Project
 A repository to practice Automation Testing using **Selenium/Java/TestNG/Cucumber Framework**.
 
@@ -27,12 +26,9 @@ This project utilizes:
 - **Gherkin Plugin**
 - **Cucumber+ Plugin**
 
-> 💡 If using **IntelliJ IDEA**, please ensure you update to the latest version of the **Cucumber for Java plugin**. Also, delete any old Run Configurations if updating.
+> 💡 **Note:** If using **IntelliJ IDEA**, please ensure you update to the latest version of the **Cucumber for Java plugin**. Also, delete any old Run Configurations if updating.
 
 ## ▶️ Running Tests
 This project uses **Maven**. To run tests, simply execute the **Test Runner class**.
 
 ---
-
-# 🏷️ `selenium_bdd`
-```
